@@ -36,3 +36,5 @@ python audio_file_path = ""C:\Users\Sunit\OneDrive\Documents\audio.mp3.unknown""
 The script uses the Google Speech Recognition API, which requires an internet connection.
 The accuracy of the transcription may vary depending on the quality of the audio and the speaker's accent.
 For longer audio files, consider splitting them into smaller segments for better performance.
+
+# output
