@@ -86,7 +86,7 @@
         "        return f\"Could not request results from the service: {e}\"\n",
         "\n",
         "\n",
-        "audio_file_path = \"https://1drv.ms/f/c/17c647f4058ac811/EhHIigX0R8YggBdrAAAAAAABJI37ZcZV5AcOnHxkDYkgZg?e=pdMwre\" #Replace with your audio file path\n",
+        "audio_file_path = \""C:\Users\Sunit\OneDrive\Documents\audio.mp3.unknown"\" #Replace with your audio file path\n",
         "result = transcribe_audio(audio_file_path)\n",
         "print(\"Transcription:\\n\", result)"
       ]
