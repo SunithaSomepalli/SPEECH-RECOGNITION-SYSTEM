@@ -38,3 +38,4 @@ The accuracy of the transcription may vary depending on the quality of the audio
 For longer audio files, consider splitting them into smaller segments for better performance.
 
 # output
+![Image](https://github.com/user-attachments/assets/2d22b360-6e55-4af1-89ca-900ae0085a16)
